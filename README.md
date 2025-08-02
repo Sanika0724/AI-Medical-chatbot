@@ -1,7 +1,5 @@
 # AI-Medical-chatbot
 
-# AI-Medical-chatbot
-
 
 ### how to run
 ### step1 create a conda environment after opening the repository
