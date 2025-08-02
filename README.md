@@ -1,8 +1,7 @@
 # AI-Medical-chatbot
-<<<<<<< HEAD
+
 # AI-Medical-chatbot
-=======
->>>>>>> ef5e03e (folder structure added)
+
 
 ### how to run
 ### step1 create a conda environment after opening the repository
@@ -18,8 +17,5 @@ conda activate medibot
 ### step2 install the requirements
 '''bash
 pip install -r requirements.txt
-<<<<<<< HEAD
+
 '''
-=======
-'''
->>>>>>> ef5e03e (folder structure added)
